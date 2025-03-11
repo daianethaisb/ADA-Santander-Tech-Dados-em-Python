@@ -7,7 +7,7 @@
   <li> Identificação e tratamento de elementos essenciais, como 
       <ul>
         <li> Agrupamentos  </li>
-        <li> Dados faltantes </li>
+        <li> Dados faltantes </li> 
         <li> Outliers </li>
       </ul>
   </li>
